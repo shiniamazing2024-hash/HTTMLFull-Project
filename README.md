@@ -1,2 +1,2 @@
-# HTTMLFull-Project
-Temple of tamilnadu web site
+# HTML Full-Project
+Temple of tamilnadu website page
